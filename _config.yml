@@ -1,3 +1,4 @@
 title: "Isabel Escribano Gómez"
 description: "Microbiology Researcher. Data Science Lover"
-theme: forty-jekyll-theme
+remote_theme: pages-themes/minimal@v0.2.0
+

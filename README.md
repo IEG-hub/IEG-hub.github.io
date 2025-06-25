@@ -1,2 +1,2 @@
-# Isabel Escribano
+# Isa Escribano
 Microbiology Researcher | Junior Data Scientist

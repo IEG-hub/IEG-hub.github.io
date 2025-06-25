@@ -1,2 +1,2 @@
 # Isabel Escribano
-Microbiology researcher | Data Science Student
+Microbiology Researcher | Junior Data Scientist
